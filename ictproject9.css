@@ -1,0 +1,35 @@
+body{
+	background: url(https://miro.medium.com/max/1153/1*nqFKa0s4MjN5cBXf-wWdyQ.png);
+	background-repeat:no-repeat;
+	background-size: 100%;
+
+}
+h1{
+	text-shadow: 3px 3px 3px maroon;
+	font-family: Jellee;
+	font-size: 50px;
+	color: white;
+	background: #E01616;
+	max-width: 100%;
+	height: auto;
+	margin: 	auto;
+	letter-spacing: -3px;
+}
+.A{
+	border: 4px;
+	border-color: black;
+	border-style: ridge;
+	border-width: 3px;
+	font-size: 30px;
+	letter-spacing: -1px;
+	text-shadow: 2px 2px 2px lightgray;
+}
+table{
+	padding: 5px;
+	background: white;
+	border-color: black;
+	font-family: Jellee;
+}
+th, td, tr{
+	
+}
